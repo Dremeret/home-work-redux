@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dremeret.github.io/home-work-redux/static/css/main.59c670e3.css",
+    "main.js": "/dremeret.github.io/home-work-redux/static/js/main.6869a624.js",
+    "index.html": "/dremeret.github.io/home-work-redux/index.html",
+    "main.59c670e3.css.map": "/dremeret.github.io/home-work-redux/static/css/main.59c670e3.css.map",
+    "main.6869a624.js.map": "/dremeret.github.io/home-work-redux/static/js/main.6869a624.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59c670e3.css",
+    "static/js/main.6869a624.js"
+  ]
+}
