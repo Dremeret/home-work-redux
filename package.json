@@ -1,8 +1,8 @@
 {
-  "name": "HW-29-react",
+  "name": "home-work-redux",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gaondarech726.github.io/HW-29-react/",
+  "homepage": "dremeret.github.io/home-work-redux",
   "dependencies": {
     "@redux-devtools/extension": "^3.3.0",
     "@testing-library/jest-dom": "^5.16.3",
